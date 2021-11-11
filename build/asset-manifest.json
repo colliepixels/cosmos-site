@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e1befa1.chunk.css",
+    "main.js": "/static/js/main.f86d7bc5.chunk.js",
+    "main.js.map": "/static/js/main.f86d7bc5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4c381e45.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4c381e45.js.map",
+    "static/js/2.e4b9e80f.chunk.js": "/static/js/2.e4b9e80f.chunk.js",
+    "static/js/2.e4b9e80f.chunk.js.map": "/static/js/2.e4b9e80f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.47fed19d7575cd240367ea2adea9af39.js": "/precache-manifest.47fed19d7575cd240367ea2adea9af39.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1e1befa1.chunk.css.map": "/static/css/main.1e1befa1.chunk.css.map",
+    "static/js/2.e4b9e80f.chunk.js.LICENSE.txt": "/static/js/2.e4b9e80f.chunk.js.LICENSE.txt",
+    "static/media/Ariya-team-bio.png": "/static/media/Ariya-team-bio.b78480e7.png",
+    "static/media/Collie-team-bio.png": "/static/media/Collie-team-bio.f795bdef.png",
+    "static/media/Jazz-team-bio.png": "/static/media/Jazz-team-bio.37c0e777.png",
+    "static/media/Jurriaan-team-bio.png": "/static/media/Jurriaan-team-bio.6e36ddae.png",
+    "static/media/Lamsing-team-bio.png": "/static/media/Lamsing-team-bio.ba2961b8.png",
+    "static/media/Marwan-Mural.gif": "/static/media/Marwan-Mural.dcc8ee1f.gif",
+    "static/media/Puji-team-bio.png": "/static/media/Puji-team-bio.07718a53.png",
+    "static/media/SPACE-SHIP-MAIN-web.png": "/static/media/SPACE-SHIP-MAIN-web.a1811df4.png",
+    "static/media/VRDLoko-team-bio.png": "/static/media/VRDLoko-team-bio.271ee6a3.png",
+    "static/media/animate-in.gif": "/static/media/animate-in.d29fd25f.gif",
+    "static/media/frame-web2.gif": "/static/media/frame-web2.efeeb0d6.gif",
+    "static/media/svg-1.png": "/static/media/svg-1.e71a6143.png",
+    "static/media/svg-7.png": "/static/media/svg-7.02c53442.png",
+    "static/media/svg-8.png": "/static/media/svg-8.76db3726.png",
+    "static/media/svg-9.png": "/static/media/svg-9.aca9f916.png",
+    "static/media/vertical-roadmap.png": "/static/media/vertical-roadmap.e5843a75.png",
+    "static/media/video.mp4": "/static/media/video.138e5e8c.mp4",
+    "static/media/video4.mp4": "/static/media/video4.b6881c2c.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c381e45.js",
+    "static/js/2.e4b9e80f.chunk.js",
+    "static/css/main.1e1befa1.chunk.css",
+    "static/js/main.f86d7bc5.chunk.js"
+  ]
+}
