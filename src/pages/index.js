@@ -12,6 +12,13 @@ import {
   homeObjTwo,
   homeObjThree,
 } from '../components/InfoSection/Data';
+import styled from "styled-components";
+
+const Container = styled.div`
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+`
 
 function Home() {
   const [isOpen, setIsOpen] = useState(false);
@@ -24,12 +31,15 @@ function Home() {
   return (
     <>
       <Navbar toggle={toggle} />
-      <HeroSection />
-      <InfoSection {...homeObjOne} />
-      <InfoSection2 {...homeObjTwo} />
-      <HeroSection2 /> 
-      <HeroSection3 /> 
-      <InfoSection3 {...homeObjThree} />
+        <Container>
+            <HeroSection />
+            <InfoSection {...homeObjOne} />
+            <InfoSection2 {...homeObjTwo} />
+            <HeroSection2 />
+            <HeroSection3 />
+            <InfoSection3 {...homeObjThree} />
+        </Container>
+
       <Footer /> 
     </>
   );

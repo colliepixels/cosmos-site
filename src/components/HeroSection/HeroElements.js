@@ -6,10 +6,15 @@ export const HeroContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 0 30px;
-  height: 1350px;
+  padding: 100px 30px;
+  //height: 1350px;
   position: relative;
   z-index: 1;
+  
+  @media screen and (max-width: 768px) {
+    padding: 100px 30px;
+  }
+  
 
   :before {
     content: '';
@@ -53,7 +58,7 @@ export const VideoBg = styled.video`
 export const HeroContent = styled.div`
   z-index: 3;
   max-width: 1200px;
-  position: absolute;
+  //position: absolute;
   padding: 8px 24px;
   display: flex;
   flex-direction: column;
